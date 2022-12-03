@@ -1,14 +1,11 @@
 // pat_b_1061.cpp
-// 2017.05.12
+// 2021.10.15
 
-/*
 #include <iostream>
 #include <cstdio>
 
-
 #define M 101
 #define N 101
-
 
 int main() {
 	int ns, mq;
@@ -36,4 +33,15 @@ int main() {
 
 	return 0;
 }
-*/
+/*
+ 3 6
+ 2 1 3 3 4 5
+ 0 0 1 0 1 1
+ 0 1 1 0 0 1
+ 1 0 1 0 1 0
+ 1 1 0 0 1 1
+
+ 13
+ 11
+ 12
+ */

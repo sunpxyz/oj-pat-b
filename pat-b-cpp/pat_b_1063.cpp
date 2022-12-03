@@ -1,7 +1,6 @@
 // pat_b_1063.cpp
-// 2017.05.15
+// 2021.11.18
 
-/*
 #include <cstdio>
 #include <cmath>
 #include <vector>
@@ -30,4 +29,11 @@ int main() {
 
 	return 0;
 }
+/*
+5
+0 1
+2 0
+-1 0
+3 3
+0 -3
 */
